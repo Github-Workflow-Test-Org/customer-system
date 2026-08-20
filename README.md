@@ -4,7 +4,7 @@ A comprehensive sample application demonstrating SQL Server T-SQL stored procedu
 
 ## Quick Start
 
-### Prerequisites
+### Prerequisitess
 
 - **SQL Server**: 2019 or later (2022 recommended)
 - **.NET**: 8.0 SDK or later
