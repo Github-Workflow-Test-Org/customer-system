@@ -3,7 +3,7 @@ veracode_static_scan:
   artifact_file: ./veracode-artifact/veracode-artifact.zip
   profile: build
   push:
-    trigger: false
+    trigger: true
   pull_request:
     trigger: false
     target_branch:
