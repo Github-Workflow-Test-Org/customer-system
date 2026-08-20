@@ -12,7 +12,7 @@ A comprehensive sample application demonstrating SQL Server T-SQL stored procedu
 - **SQL Server Management Studio (SSMS)**: For database management (optional)
 - **Git**: For cloning and version control
 
-### Build Instructions
+### Build Instructionss
 
 #### Step 1: Set Up the Database
 
